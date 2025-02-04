@@ -1,5 +1,9 @@
 public class Book{
-    public static void main(String[] args){
-        System.out.println("cravjiijnf");
+    public Book(){
+
+    }
+
+    public String toString(){
+        
     }
 }
