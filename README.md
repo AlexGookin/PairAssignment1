@@ -1,2 +1,2 @@
 # PairAssignment1
-Alex Gookin & Trinity Theile
+Alex Gookin & Trinity Thiele
